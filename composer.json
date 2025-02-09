@@ -1,0 +1,26 @@
+{
+    "name": "tianjiuapp/phpotp",
+    "description": "PHPOTP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPOTP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "budingxiaocai",
+            "email": "budingxiaocai@yeah.net",
+            "homepage": "https://github.com/budingxiaocai"
+        },
+        {
+            "name": "Voronenko",
+            "homepage" : "https://github.com/Voronenko"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
