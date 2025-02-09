@@ -11,5 +11,5 @@
 		echo "Invalid code\n";
 	}
 
-  print sprintf('<img src="%s"/>',PHPOTP::getBarCodeUrl('','',$secretkey,'My%20App'));
-  print PHPOTP::getTokenCodeDebug($secretkey,0);
+    print sprintf('<img src="%s"/>',PHPOTP::getBarCodeUrl('','',$secretkey,'My%20App'));
+    print PHPOTP::getTokenCodeDebug($secretkey,0);
