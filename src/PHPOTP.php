@@ -1,7 +1,7 @@
 <?php
 
     namespace PHPOTP;
-    use PHPOTP\Base32Static;
+    use PHPOTP\base32static;
 
     // http://www.faqs.org/rfcs/rfc6238.html
 	class PHPOTP {

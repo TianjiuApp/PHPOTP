@@ -10,7 +10,7 @@
      * @package default
      * @author Bryan Ruiz
      **/
-    class Base32Static {
+    class base32static {
 
        private static $map = array(
           'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', //  7
