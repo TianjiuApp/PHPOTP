@@ -1,5 +1,5 @@
-## Due to the long-term disrepair of the original warehouse, it has been replicated here.
-### This project uses the same license as the original project. The original project address is: https://github.com/Voronenko/PHPOTP
+Due to the long-term disrepair of the original warehouse, it has been replicated here.
+This project uses the same license as the original project. The original project address is: https://github.com/Voronenko/PHPOTP
 
 
 
